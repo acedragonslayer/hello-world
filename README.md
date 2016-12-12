@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hi humans
+
+alien here, i like coffescript ( that's what i made off).
